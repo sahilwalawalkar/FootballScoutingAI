@@ -5,7 +5,6 @@ An interactive football recruitment intelligence platform for exploring, compari
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.62%2B-FF4B4B?logo=streamlit&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6%2B-F7931E?logo=scikitlearn&logoColor=white)
-![License](https://img.shields.io/badge/license-not%20specified-lightgrey)
 
 ## Overview
 
@@ -97,7 +96,7 @@ data/processed/premier_league_2023_24_scouting_final.csv
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/sahilwalawalkar/FootballScoutingAI.git
 cd FootballScoutingAI
 ```
 
@@ -170,4 +169,3 @@ ScoutVision is an analytical and portfolio project, not an official Premier Leag
 ## Author
 
 Developed by [Sahil Walawalkar](https://github.com/sahilwalawalkar).
-
